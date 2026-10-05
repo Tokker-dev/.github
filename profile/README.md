@@ -1,4 +1,11 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tokker-dev/.github/main/assets/org-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/Tokker-dev/.github/main/assets/org-banner.png" alt="tokker.dev. What AI tokens really cost, per million. A split-flap board of $ per 1M token prices as of 5 Oct 2026." width="100%">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://tokker.dev"><img src="https://img.shields.io/badge/SITE-TOKKER.DEV-F2B33D?style=for-the-badge&labelColor=101418" alt="Site: tokker.dev"></a>
   <img src="https://img.shields.io/badge/PRICE%20INDEX-IN%20DEVELOPMENT-9AA1AB?style=for-the-badge&labelColor=101418" alt="Price index: in development">
   <a href="https://factory0.ventures"><img src="https://img.shields.io/badge/FACTORY%20ZERO-VENTURE-E8EAED?style=for-the-badge&labelColor=101418" alt="A Factory Zero venture"></a>
